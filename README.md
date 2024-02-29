@@ -1,5 +1,5 @@
 # 💫 Sobre eu:
-Me chamo Thomas Stephan tenho 17 anos de idade<br><br>Estudante do Instituto Federal de São Paulo<br>Atuo no 3º ano do Ensino médio pelo curso de informática<br><br>Tenho conhecimento em Linguagem de programação (C, Java, Python e HTML), <br>Gerenciamento de projeto,  Lógica de programação e Banco de Dados.<br><br>Cursos feitos: Excel, PowerPoint, World.
+ Thomas Stephan 17 anos de idade<br><br>Estudante do Instituto Federal de São Paulo<br>Atuo no 3º ano do Ensino médio pelo curso de informática<br><br>Tenho conhecimento em Linguagem de programação (C, Java, Python e HTML), <br>Gerenciamento de projeto,  Lógica de programação e Banco de Dados.<br><br>Cursos feitos: Excel, PowerPoint, World.
 
 
 ## 🌐 Redes Sociais:
@@ -22,3 +22,6 @@ Me chamo Thomas Stephan tenho 17 anos de idade<br><br>Estudante do Instituto Fed
 [![](https://visitcount.itsvg.in/api?id=Demonjinx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## pronomes 
+ele/dele
